@@ -7,6 +7,7 @@
   - Tools we'll be using: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_1/Tools.md)
   - Basic history of HTML: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_1/Basic_history_html.md)
   - HTML syntax: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_1/html_syntax.md)
+  - Some HTML tags: [here](https://chelsea-dover.github.io/basic_site.html)
   - Default ways of displaying: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_1/types_of_displaying_elements.md)
   - HTML forms: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_1/html_forms.md)
 
