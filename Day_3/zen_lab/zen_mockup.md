@@ -3,7 +3,7 @@ Make sure your file name ends with .html
 
 Create a webpage using the HTML file and one of the mockups below.
 
-[HTML file](https://github.com/Chelsea-Dover/front-end-101/blob/master/CSS/labs/zen_lab/zen_index.html)
+[HTML file](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/zen_lab/zen_index.html)
 
 [zen mockup](https://goo.gl/Up3uym)
 
