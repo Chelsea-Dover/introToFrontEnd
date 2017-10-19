@@ -236,60 +236,60 @@ Borders with images are a separate property from borders with colors. None of th
 
 The properties for borders with images are:
 
-  ##### Border Image Source
+##### Border Image Source
 
     e.g.
     > border-image-source: url(image.png);  
     > border-image-source: url(www.photos.com/image.png);  
 
-      This specifies what image your border will display.
+This specifies what image your border will display.
 
-  ##### Border Image Slice
+##### Border Image Slice
 
-        e.g.
-        > border-image-slice: 30;  
-        > border-image-slice: fill;  
-
-
-        This property specifies how your image will be sliced.
-        The values of this property are:
-          - an integer
-          - a percentage
-          - fill
-          - initial
-          - inherit
+    e.g.
+    > border-image-slice: 30;  
+    > border-image-slice: fill;  
 
 
-    ##### Border Image Width
+This property specifies how your image will be sliced.
+The values of this property are:
+  - an integer
+  - a percentage
+  - fill
+  - initial
+  - inherit
 
-        e.g.
-        > border-image-width: 10px;  
-        > border-image-width: 1;  
-        > border-image-width: auto;  
 
-        Border image width specifies how wide the border image is. It can take in any size units, auto, initial and inherit.
+##### Border Image Width
+
+    e.g.
+    > border-image-width: 10px;  
+    > border-image-width: 1;  
+    > border-image-width: auto;  
+
+Border image width specifies how wide the border image is. It can take in any size units, auto, initial and inherit.
 
 
-    ##### Border Image Outset
+##### Border Image Outset
 
     e.g.
     > border-image-outset: 10px;  
     > border-image-outset: 1 1 0 1;  
 
-    Border Image Outset specifies how much the border image area extends beyond the border box. It can take in any size units, auto, initial and inherit.
+Border Image Outset specifies how much the border image area extends beyond the border box. It can take in any size units, auto, initial and inherit.
 
-    ##### Border Image Repeat
+##### Border Image Repeat
 
     e.g.
     > border-image-repeat: repeat;  
     > border-image-repeat: round;  
 
-    Border Image Repeat specifies how the border image should be repeated, rounded or stretched.
+Border Image Repeat specifies how the border image should be repeated, rounded or stretched.
 
-    The values of this property are:
-      - stretch(default)
-      - repeat
-      - round
-      - space
-      - inherit
-      - initial
+  The values of this property are:
+    - stretch(default)
+    - repeat
+    - round
+    - space
+    - inherit
+    - initial
