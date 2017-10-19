@@ -157,10 +157,10 @@ The values for a box shadow are:
  - color: Color takes in any kind of color value (hexadecimal, RGBA, Cross-browser color names, etc). This value will change the color of your shadow. By default it will be black.
  - inset: Unlike the others this can only take one value. If you add `inset` it will go from being a shadow outside of your element and will now be inside.
 
- e.g.
- > box-shadow: 20px 20px; (This is all you need to get a shadow to appear)  
- > box-shadow: 20px 20px 5px 5px yellow;  
- > box-shadow: 20px 20px 5px 5px pink inset;  
+   e.g.
+     > box-shadow: 20px 20px; (This is all you need to get a shadow to appear)  
+     > box-shadow: 20px 20px 5px 5px yellow;  
+     > box-shadow: 20px 20px 5px 5px pink inset;  
 
 
 ### Borders
@@ -170,23 +170,23 @@ Borders can use colors and images for the value. You can also add a border to a 
 Borders take in multiple properties:
   ##### Border Style
 
-  e.g.
-  > border-style: solid;  
-  > border-style: dashed;  
+    e.g.
+      > border-style: solid;  
+      > border-style: dashed;  
 
-    Border style specifies the style of the border. This is the only border property you need for a border to show up. After this all other properties will use the default values.
+  Border style specifies the style of the border. This is the only border property you need for a border to show up. After this all other properties will use the default values.
 
-    The options are:
-     - solid
-     - dashed
-     - dotted
-     - double
-     - groove
-     - ridge
-     - inset
-     - outset
-     - none
-     - hidden
+  The options are:
+   - solid
+   - dashed
+   - dotted
+   - double
+   - groove
+   - ridge
+   - inset
+   - outset
+   - none
+   - hidden
 
   ##### Border Width
 
