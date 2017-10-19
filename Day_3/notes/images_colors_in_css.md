@@ -190,20 +190,20 @@ Borders take in multiple properties:
 
   ##### Border Width
 
-  e.g.
-  > border-width: 5px;  
-  > border-width: thin;  
-  > border-width: 10vh;  
+    e.g.
+    > border-width: 5px;  
+    > border-width: thin;  
+    > border-width: 10vh;  
 
-    Border with specifies how thick the border will be. There are specific values for border width you could use, or you could use any size unit.
+  Border with specifies how thick the border will be. There are specific values for border width you could use, or you could use any size unit.
 
-    The specific border values are:
-     - medium (default)
-     - thin
-     - thick
-     - length
-     - initial
-     - inherit
+  The specific border values are:
+   - medium (default)
+   - thin
+   - thick
+   - length
+   - initial
+   - inherit
 
    ##### Border Color
 
