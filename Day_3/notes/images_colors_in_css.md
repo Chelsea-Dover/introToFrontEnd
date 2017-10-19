@@ -250,6 +250,7 @@ The properties for borders with images are:
         > border-image-slice: 30;  
         > border-image-slice: fill;  
 
+
         This property specifies how your image will be sliced.
         The values of this property are:
           - an integer
@@ -257,6 +258,7 @@ The properties for borders with images are:
           - fill
           - initial
           - inherit
+
 
     ##### Border Image Width
 
