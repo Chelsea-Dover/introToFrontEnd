@@ -32,7 +32,7 @@
 ## Day three:
   - CSS box model: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/css_box_model.md)
   - Images & colors: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/images_colors.md)
-  - Image & colors in CSS: [here]()
+  - Image & colors in CSS: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/images_colors_in_css.md)
   - Position: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/position.md)
 
 ## Day four:
