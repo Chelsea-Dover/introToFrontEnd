@@ -30,14 +30,14 @@
 
 
 ## Day three:
-  - CSS box model: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/css_box_model.md)
-  - Images & colors: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/images_colors.md)
+  - CSS box model: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/css_box_model.md)
+  - Images & colors: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/images_colors.md)
   - Image & colors in CSS: [here]()
-  - Position: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/position.md)
+  - Position: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_3/notes/position.md)
 
 ## Day four:
-  - Responsive design: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_4/Responsive%20_Design.md)
-  - Flexbox: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_4/flexbox.md)
+  - Responsive design: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_4/notes/Responsive%20_Design.md)
+  - Flexbox: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_4/notes/flexbox.md)
 
 ## Day five:
   - Animations: [here](https://github.com/Chelsea-Dover/introToFrontEnd/tree/master/Day_5)
