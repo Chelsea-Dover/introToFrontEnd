@@ -205,31 +205,31 @@ Borders take in multiple properties:
      - initial
      - inherit
 
-  ##### Border Color
+   ##### Border Color
 
-  e.g.
-  > border-color: red;  
-  > border-color: #333333;  
-  > border-color: rgba(255, 0, 0, 0.5);  
+   e.g.
+   > border-color: red;  
+   > border-color: #333333;  
+   > border-color: rgba(255, 0, 0, 0.5);  
 
     This is where the colors come in. The values of this property have to be some type of color. They can be anything such as Cross-browser color names, RGBA and Hexadecimal.
 
-  #### Border
+   #### Border
 
-  Instead of using every single one of these properties we can use the shorthand property `border`
+   Instead of using every single one of these properties we can use the shorthand property `border`
 
-  e.g.
-  > border: solid 5px red;  
+   e.g.
+   > border: solid 5px red;  
 
-  You can also add a border to a specific using the following ad the properties and the same values as the shorthand `border`:
-    - border-left
-    - border-right
-    - border-bottom
-    - border-top
+   You can also add a border to a specific using the following ad the properties and the same values as the shorthand `border`:
+     - border-left
+     - border-right
+     - border-bottom
+     - border-top
 
-  e.g.
-  > border-left: solid 20px green;  
-  > border-top: dashed 2px yellow;  
+   e.g.
+   > border-left: solid 20px green;  
+   > border-top: dashed 2px yellow;  
 
 ## Borders with Images
 Borders with images are a separate property from borders with colors. None of the properties be used in the shorthand `border`.
