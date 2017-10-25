@@ -15,7 +15,6 @@
 
 ## Day two:
   - More HTML tags: [here](https://chelsea-dover.github.io/more_tags.html)
-  - File system and paths: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/Filesystem_Paths.md)
   - Googling: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/googling.md)
   - What is CSS: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/What_is_css.md)
   - Basic history of CSS: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/Basic_history_css.md)
@@ -43,8 +42,14 @@
 ## Day five:
 
   - Responsive design: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/notes/Responsive%20_Design.md)
-  - Animations: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/notes/animations.md)
+
 
   - Responsive menu lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/labs/responsive_menu_exercise.md)
-  - Animations lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/labs/Exercise_button_animation.md)
 
+## Day six:
+
+  - Animations: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/notes/animations.md)
+  - File system and paths: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/notes/Filesystem_Paths.md)
+
+
+  - Animations lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/labs/Exercise_button_animation.md)
