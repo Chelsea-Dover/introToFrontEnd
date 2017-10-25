@@ -42,7 +42,7 @@
 ## Day five:
 
   - Responsive design: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/notes/Responsive%20_Design.md)
-
+  - Shapes in CSS: [here](https://codepen.io/Chelsea-Dover/pen/preBwV?editors=1100)
 
   - Responsive menu lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/labs/responsive_menu_exercise.md)
 
@@ -50,6 +50,8 @@
 
   - Animations: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/notes/animations.md)
   - File system and paths: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/notes/Filesystem_Paths.md)
+  - Git basics: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/notes/git-basic.md)
+  - Command line interface: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/notes/cli.md)
 
-
+  - Personal project lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/labs/personal_project.md)
   - Animations lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/labs/Exercise_button_animation.md)
