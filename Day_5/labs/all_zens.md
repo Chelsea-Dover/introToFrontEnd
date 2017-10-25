@@ -63,6 +63,7 @@ The font used in the extra advanced mockup is:
 [Extra Extra Advanced](https://codepen.io/Chelsea-Dover/pen/MoeyEK?q=zen&limit=mine)
 
 @import url('https://fonts.googleapis.com/css?family=Muli:600'); <--- at the top of css
+
 font-family: 'Muli', sans-serif; <--- wherever you want to apply font
 
 * https://upload.wikimedia.org/wikipedia/commons/9/9d/CSIRO_ScienceImage_3176_Arabidopsis_in_growth_cabinet_at_the_CSIRO_Discovery_Centre_labs_Black_Mountain_ACT.jpg
@@ -87,6 +88,7 @@ The colors used in this mockup are:
 [Extremely Advanced](https://codepen.io/Chelsea-Dover/pen/vZLPQK?q=zen&limit=mine)
 
 @import url('https://fonts.googleapis.com/css?family=Calligraffitti%7CShadows+Into+Light'); <--- at the top of css
+
 font-family: 'Shadows Into Light', cursive; <-- wherever you want to apply font
 
 

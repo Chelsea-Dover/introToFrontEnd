@@ -9,4 +9,4 @@ Get a good foundation of responsive design in CSS
 **What to do if you're done**
 
 - Continue working on your personal webpage.
--
+- Go [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/labs/all_zens.md) pick a zen mockup and do it.
