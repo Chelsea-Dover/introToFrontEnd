@@ -3,7 +3,7 @@
 ## Objective
 Get a good foundation of responsive design in CSS.
 
-You don't have to touch the JS. Just realize that what it's doing is toggling the class on the `ul` between `navShow` and `tavtop`.
+You don't have to touch the JS. Just realize that what it's doing is toggling the class on the `ul` between `navShow` and `topnav`.
 
 
 - Go to [this pen](https://codepen.io/Chelsea-Dover/pen/KXaMjO/) and fork it (the 'fork' button is in the top right corner).
