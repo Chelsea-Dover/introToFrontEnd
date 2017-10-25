@@ -42,7 +42,7 @@
 
 ## Day five:
 
-  - Responsive design: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_4/notes/Responsive%20_Design.md)
+  - Responsive design: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/notes/Responsive%20_Design.md)
   - Animations: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/notes/animations.md)
 
   - Animations lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_5/labs/Exercise_button_animation.md)
