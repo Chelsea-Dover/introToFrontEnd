@@ -22,7 +22,7 @@
   - Default CSS: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/Default_css.md)
   - Where to put CSS: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/where_to_put_css.md)
   - CSS hierarchy: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/notes/css_hierarchy.md)
-  - CSS selectors: [here](https://www.w3schools.com/cssref/css_selectors.asp)
+  - CSS selectors: [here](https://www.w3schools.com/cssref/css_selectors.asp) & [here](https://chelsea-dover.github.io/selectors.html)
 
   - Personal webpage lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/labs/Exercise_portfolio1.md)
   - Pretty personal webpage lab: lab[here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_2/labs/Exercise_portfolio2.md)
