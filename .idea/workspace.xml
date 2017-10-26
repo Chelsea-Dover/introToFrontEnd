@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69e199ad-82f9-43c5-a034-5d83260bd15a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/introToFrontEnd.iml" afterPath="$PROJECT_DIR$/.idea/introToFrontEnd.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="69e199ad-82f9-43c5-a034-5d83260bd15a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,15 +56,15 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../chelsea-dover.github.io/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="e#7441#7693#0" expanded="false" />
-                <element signature="e#7695#7873#0" expanded="false" />
-                <element signature="e#7875#8063#0" expanded="false" />
-                <element signature="e#8065#8256#0" expanded="false" />
-                <element signature="e#8258#8425#0" expanded="false" />
-                <element signature="e#8427#8810#0" expanded="false" />
+                <element signature="e#7463#7715#0" expanded="false" />
+                <element signature="e#7717#7895#0" expanded="false" />
+                <element signature="e#7897#8085#0" expanded="false" />
+                <element signature="e#8087#8278#0" expanded="false" />
+                <element signature="e#8280#8447#0" expanded="false" />
+                <element signature="e#8449#8832#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -79,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -221,7 +216,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1681" y="23" width="1023" height="741" extended-state="6" />
+    <frame x="1680" y="23" width="1023" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -500,7 +495,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -525,15 +520,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../chelsea-dover.github.io/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="e#7441#7693#0" expanded="false" />
-            <element signature="e#7695#7873#0" expanded="false" />
-            <element signature="e#7875#8063#0" expanded="false" />
-            <element signature="e#8065#8256#0" expanded="false" />
-            <element signature="e#8258#8425#0" expanded="false" />
-            <element signature="e#8427#8810#0" expanded="false" />
+            <element signature="e#7463#7715#0" expanded="false" />
+            <element signature="e#7717#7895#0" expanded="false" />
+            <element signature="e#7897#8085#0" expanded="false" />
+            <element signature="e#8087#8278#0" expanded="false" />
+            <element signature="e#8280#8447#0" expanded="false" />
+            <element signature="e#8449#8832#0" expanded="false" />
           </folding>
         </state>
       </provider>
