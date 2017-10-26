@@ -55,3 +55,4 @@
 
   - Personal project lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/labs/personal_project.md)
   - Animations lab: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/labs/Exercise_button_animation.md)
+  - Publish your project: [here](https://github.com/Chelsea-Dover/introToFrontEnd/blob/master/Day_6/labs/publish.md)
