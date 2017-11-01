@@ -10,7 +10,7 @@ Create a webpage using the HTML file and one of the mockups below.
 
 [zen mockup](https://goo.gl/Up3uym)
 
-The colors used in the mockup are:
+The colors used in the mockup:
 
 * #fff
 * #004F2D
@@ -24,7 +24,7 @@ The colors used in the mockup are:
 
 [Advanced mockup](https://goo.gl/ufeSIZ)
 
-The colors used in the advanced mockup are:
+The colors used in the advanced mockup:
 
 * #fff
 * #00A6A6
@@ -36,7 +36,7 @@ The colors used in the advanced mockup are:
 * #F8333C
 * #FF7733
 
-The font used in the advanced mockup is:
+The font used in the advanced mockup:
 
 * [Roboto](https://fonts.google.com/specimen/Roboto)
 
@@ -44,11 +44,11 @@ The font used in the advanced mockup is:
 
 [Advanced mockup](https://goo.gl/tM2G7D)
 
-The colors used in the extra advanced mockup are:
+The colors used in the extra advanced mockup:
 
 * Red
 
-The images used in the extra advanced mockup are:
+The images used in the extra advanced mockup:
 
 * [lined paper](https://www.transparenttextures.com/patterns/lined-paper.png)
 * [paper plane](https://s-media-cache-ak0.pinimg.com/originals/7c/1f/c8/7c1fc8309278834200ad7b4b7ca85c44.png)
@@ -60,18 +60,20 @@ The font used in the extra advanced mockup is:
 
 ## Extra Extra Advanced
 
-[Extra Extra Advanced](https://codepen.io/Chelsea-Dover/pen/MoeyEK?q=zen&limit=mine)
+[Extra Extra Advanced](https://codepen.io/Chelsea-Dover/full/MoeyEK?q=zen&limit=mine)
 
-@import url('https://fonts.googleapis.com/css?family=Muli:600'); <--- at the top of css
+The font used in this mockup:
 
-font-family: 'Muli', sans-serif; <--- wherever you want to apply font
+* [Muli](https://fonts.google.com/?query=muli&selection.family=Muli)
+
+The images used in this mockup:
 
 * https://upload.wikimedia.org/wikipedia/commons/9/9d/CSIRO_ScienceImage_3176_Arabidopsis_in_growth_cabinet_at_the_CSIRO_Discovery_Centre_labs_Black_Mountain_ACT.jpg
 * https://static.pexels.com/photos/4700/nature-forest-moss-leaves.jpg
 * http://www.lovethispic.com/uploaded_images/223291-Nature.jpg
 * http://wlpapers.com/images/sunflowers-summer-nature-1.jpg
 
-The colors used in this mockup are:
+The colors used in this mockup:
 
 * #fbca03
 * rgba(121, 85, 72, 0.45)
@@ -85,21 +87,19 @@ The colors used in this mockup are:
 
 ## Extremely Advanced
 
-[Extremely Advanced](https://codepen.io/Chelsea-Dover/pen/vZLPQK?q=zen&limit=mine)
+[Extremely Advanced](https://codepen.io/Chelsea-Dover/full/vZLPQK?q=zen&limit=mine)
 
-@import url('https://fonts.googleapis.com/css?family=Calligraffitti%7CShadows+Into+Light'); <--- at the top of css
+The font used in this mockup:
 
-font-family: 'Shadows Into Light', cursive; <-- wherever you want to apply font
+[Shadows Into Light](https://fonts.google.com/?query=Shadows+Into+Light&selection.family=Shadows+Into+Light)
 
-
-The photos used in this mockup are:
+The photos used in this mockup:
 
 * http://up209d.github.io/LastAssignment/project/assets/images/paper.png
 * http://i.imgur.com/0MCCdUI.png
 * https://s3.amazonaws.com/piktochartv2-dev/v2/uploads/0e5c8081-7147-417b-9b3c-0ac315f4c8cf/d754b36dd742d67daf4a4a76cb865122e2f79bac_original.png
 
-
-The colors used in this mockup are:
+The colors used in this mockup:
 
 * #b97c7e
 * #d55b6a
