@@ -14,7 +14,7 @@
   - HTML tags lab: [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_1/labs/Exercise_HTML_Tags.md)
 
 
-  ## Day one:
+  ## Day two:
   - HTML Forms:
   [here](https://github.com/Chelsea-Dover/feb52018_intro/blob/master/Day_2/notes/html_forms.md)
 
