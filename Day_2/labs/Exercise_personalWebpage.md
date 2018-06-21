@@ -6,11 +6,10 @@ Start adding custom style to your webpage using an external stylesheet.
 
 1. Create a new CSS file called `style.css` in the same folder that your index.html page is in
 1. Add `<link rel="stylesheet" href="styles.css">` to the head of your html file
-1. Create your portfolio using the styles we've gone over. You must at least include:
-    - background
-    - margin
+1. Style your html page using the styles we've gone over. You must at least include:
+    - background-color
     - color
-    - padding
+    - border
 
 ------
 
